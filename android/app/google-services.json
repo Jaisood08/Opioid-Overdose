@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642938226843",
+    "project_id": "odps-2e7c7",
+    "storage_bucket": "odps-2e7c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642938226843:android:02aadff65e424fbc079e3e",
+        "android_client_info": {
+          "package_name": "com.odps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642938226843-ff5ajr10rprl3r4b3k7ud8vuplphn1hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByLZoOCvaPzH3cjl5COC0ndzKsg7SHdZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642938226843-ff5ajr10rprl3r4b3k7ud8vuplphn1hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
